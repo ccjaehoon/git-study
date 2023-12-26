@@ -1,5 +1,5 @@
 category: javascript
-lectures: Hwang
+lectures: ko
 related: node.js
 - typescript
 - React
