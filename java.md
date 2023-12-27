@@ -1,5 +1,5 @@
 category: java
-lectures: Jin
+lectures: Kang
 title : java level12
 related:
 - xcss
